@@ -3,8 +3,8 @@
   "short_name":"BYD Time",
   "start_url":"./index.html",
   "display":"standalone",
-  "background_color":"#000000",
-  "theme_color":"#000000",
+  "background_color":"#0b0b0d",
+  "theme_color":"#0b0b0d",
   "description":"只服务一辆比亚迪海豹06 DM-i 的私人车辆记录应用。",
   "icons":[
     {"src":"icon-192.png","sizes":"192x192","type":"image/png"},
